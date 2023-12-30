@@ -1,2 +1,2 @@
 # alfin-resolusi
-Repository untuk menyimpan tugas dan rencana kedepannya
+Repository untuk menyimpan tugas dan rencana kedepannya anjayy
